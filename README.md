@@ -1,6 +1,6 @@
 To Run:
 
-git clone https://huggingface.co/WalidAlHassan/ChatBot
+git clone https://github.com/walid3271/ChatBot.git
 
 pest your hugging-face API Key in the .env file
 
